@@ -12,7 +12,7 @@ export default function constoiCard(nome, valor, imagem, id) {
               <h4 class="product__item_description_h4">${nome}</h4>
               <div class="product__price_icon">
                 <p class="product__item_description_p">$ ${valor}</p>
-                <button class="button__default" id="${id}" data-form-delete">
+                <button class="button__default" id="${id}" data-form-delete>
                   <img src="./image/🦆 icon _trash 2_.png" class="product__icon_trash">
                 </button>
               </div>
@@ -32,7 +32,7 @@ async function listaProdutos() {
     btnDelete.forEach(btn => {
       btn.addEventListener("click", async () => {
         await deletaProduto(btn.id);
-        listaProdutos(); 
+
       });
     });
 

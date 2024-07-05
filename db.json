@@ -5,48 +5,6 @@
       "nome": "Stormtrooper",
       "valor": "60",
       "imagem": "http://127.0.0.1:5500/image/imgStormTrooper.png"
-    },
-    {
-      "id": "2",
-      "nome": "Stormtrooper",
-      "valor": "60",
-      "imagem": "http://127.0.0.1:5500/image/imgStormTrooper.png"
-    },
-    {
-      "id": "6cce",
-      "nome": "asdasd",
-      "valor": "123123",
-      "imagem": "sadasdasd"
-    },
-    {
-      "id": "676e",
-      "nome": "asdasd",
-      "valor": "123123",
-      "imagem": "sadasdasd"
-    },
-    {
-      "id": "1eb2",
-      "nome": "asdasd",
-      "valor": "123123",
-      "imagem": "sadasdasd"
-    },
-    {
-      "id": "8801",
-      "nome": "asdasd",
-      "valor": "123123",
-      "imagem": "sadasdasd"
-    },
-    {
-      "id": "e303",
-      "nome": "asdasd",
-      "valor": "123123",
-      "imagem": "sadasdasd"
-    },
-    {
-      "id": "a9f0",
-      "nome": "asdasd",
-      "valor": "123123",
-      "imagem": "sadasdasd"
     }
   ]
 }
