@@ -7,6 +7,11 @@
   --colorwhite: #e5e5e5;
 }
 
+h2{
+  font-size: 16px;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: bold;
+}
 
 * {
   margin: 0;
@@ -213,5 +218,9 @@
 
   .section__son_form{
     width: 100%;
+  }
+  .div__products{
+    min-width: 70%;
+    max-width: 80%;
   }
 }
