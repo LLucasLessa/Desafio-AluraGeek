@@ -163,6 +163,12 @@
   color: var(--colordarkblue);
 }
 
+.button__form:hover{
+  color: var(--colorwhite);
+  background-color: var(--colordarkblue);
+  transition: 0.2s ease-in;
+}
+
 .button__default{
   background-color: transparent;
   border: none;
@@ -193,3 +199,19 @@
   align-items: center;
 }
 /* footer__section */
+
+/* Media Querys */
+
+@media (width <=1000px) {
+  .section__father{
+    display: block;
+  }
+
+  .section__son_products{
+    width: 100%;
+  }
+
+  .section__son_form{
+    width: 100%;
+  }
+}
